@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Hrac
+comment0.text=\r\n\ Trieda\ Hrac\ predstavuje\ hr\u00E1\u010Da\ s\ menom\ a\ po\u010Dtom\ z\u00EDskan\u00FDch\ bodov.\r\n\r\n\ @author\ Benjamin\ Vyhnal\r\n
+comment1.params=meno\ pocetBodov
+comment1.target=Hrac(java.lang.String,\ int)
+comment1.text=\r\n\ Kon\u0161truktor\ triedy\ Hrac\ inicializuje\ in\u0161tanciu\ hr\u00E1\u010Da\ s\ dan\u00FDm\ menom\ a\ po\u010Dtom\ bodov.\r\n\r\n\ @param\ meno\ Meno\ hr\u00E1\u010Da.\r\n\ @param\ pocetBodov\ Po\u010Det\ bodov,\ ktor\u00E9\ m\u00E1\ hr\u00E1\u010D\ na\ za\u010Diatku.\r\n
+comment2.params=
+comment2.target=int\ getPocetBodov()
+comment2.text=\r\n\ Vr\u00E1ti\ aktu\u00E1lny\ po\u010Det\ bodov\ hr\u00E1\u010Da.\r\n\r\n\ @return\ Aktu\u00E1lny\ po\u010Det\ bodov\ hr\u00E1\u010Da.\r\n
+comment3.params=
+comment3.target=java.lang.String\ getMeno()
+comment3.text=\r\n\ Vr\u00E1ti\ meno\ hr\u00E1\u010Da.\r\n\r\n\ @return\ Meno\ hr\u00E1\u010Da.\r\n
+comment4.params=pocet
+comment4.target=void\ zmenPocetBodov(int)
+comment4.text=\r\n\ Zmen\u00ED\ po\u010Det\ bodov\ hr\u00E1\u010Da\ na\ zadan\u00FD\ po\u010Det.\r\n\r\n\ @param\ pocet\ Nov\u00FD\ po\u010Det\ bodov\ pre\ hr\u00E1\u010Da.\r\n
+numComments=5

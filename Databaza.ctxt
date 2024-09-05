@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Databaza
+comment0.text=\r\n\ Trieda\ Databaza\ reprezentuje\ \u00FAlo\u017Eisko\ inform\u00E1ci\u00ED\ o\ hr\u00E1\u010Doch.\r\n\ Umo\u017E\u0148uje\ prid\u00E1va\u0165\ hr\u00E1\u010Dov,\ meni\u0165\ ich\ sk\u00F3re,\ na\u010D\u00EDtava\u0165\ a\ uklada\u0165\ d\u00E1ta\ z\ a\ aj\ do\ s\u00FAboru.\r\n\r\n\ @author\ Benjamin\ Vyhnal\r\n
+comment1.params=subor
+comment1.target=Databaza(java.lang.String)
+comment1.text=\r\n\ Kon\u0161truktor\ triedy\ Databaza\ inicializuje\ in\u0161tanciu\ datab\u00E1zy\ hr\u00E1\u010Dov\ a\ otv\u00E1ra\ skener\ pre\ \u010D\u00EDtanie\ zo\ s\u00FAboru.\r\n\r\n\ @param\ subor\ Cesta\ k\ s\u00FAboru,\ v\ ktorom\ s\u00FA\ ulo\u017Een\u00E9\ inform\u00E1cie\ o\ hr\u00E1\u010Doch.\r\n\ @throws\ IOException\ Chyba\ pri\ otv\u00E1ran\u00ED\ alebo\ \u010D\u00EDtan\u00ED\ zo\ s\u00FAboru.\r\n
+comment2.params=novyHrac
+comment2.target=void\ pridajHraca(Hrac)
+comment2.text=\r\n\ Prid\u00E1\ nov\u00E9ho\ hr\u00E1\u010Da\ do\ datab\u00E1zy.\r\n\r\n\ @param\ novyHrac\ Nov\u00FD\ hr\u00E1\u010D\ na\ pridanie\ do\ datab\u00E1zy.\r\n
+comment3.params=meno\ pocetBodov
+comment3.target=void\ zmenPocetBodov(java.lang.String,\ int)
+comment3.text=\r\n\ Zmen\u00ED\ po\u010Det\ bodov\ konkr\u00E9tnemu\ hr\u00E1\u010Dovi\ pod\u013Ea\ zadan\u00E9ho\ mena.\r\n\r\n\ @param\ meno\ Meno\ hr\u00E1\u010Da,\ ktor\u00E9ho\ po\u010Det\ bodov\ sa\ m\u00E1\ zmeni\u0165.\r\n\ @param\ pocetBodov\ Nov\u00FD\ po\u010Det\ bodov\ pre\ hr\u00E1\u010Da.\r\n
+comment4.params=
+comment4.target=void\ vypisDoSuboru()
+comment4.text=\r\n\ Zap\u00ED\u0161e\ inform\u00E1cie\ o\ hr\u00E1\u010Doch\ do\ s\u00FAboru.\r\n\r\n\ @throws\ FileNotFoundException\ Chyba\ pri\ vytv\u00E1ran\u00ED\ alebo\ zapisovan\u00ED\ do\ s\u00FAboru.\r\n
+comment5.params=
+comment5.target=void\ nacitajZoSuboru()
+comment5.text=\r\n\ Na\u010D\u00EDta\ inform\u00E1cie\ o\ hr\u00E1\u010Doch\ zo\ s\u00FAboru.\r\n
+comment6.params=
+comment6.target=java.util.ArrayList\ getHraci()
+comment6.text=\r\n\ Vr\u00E1ti\ zoznam\ hr\u00E1\u010Dov\ v\ datab\u00E1ze.\r\n\r\n\ @return\ Zoznam\ hr\u00E1\u010Dov\ v\ datab\u00E1ze.\r\n
+numComments=7

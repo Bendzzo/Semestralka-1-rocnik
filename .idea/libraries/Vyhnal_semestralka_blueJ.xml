@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Vyhnal_semestralka_blueJ">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/shapesGE-SK-2.0.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/fb.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

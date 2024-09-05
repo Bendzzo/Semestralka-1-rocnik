@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Hra
+comment0.text=\r\n\ Trieda\ Hra\ zabezpe\u010Duje\ riadenie\ samotnej\ hry.\r\n\ Inicializuje\ grafick\u00E9\ a\ hern\u00E9\ komponenty,\ star\u00E1\ sa\ o\ priebeh\ hry\ a\ manipuluje\ s\ datab\u00E1zou\ hr\u00E1\u010Dov.\r\n\r\n\ @author\ Benjamin\ Vyhnal\r\n
+comment1.params=
+comment1.target=Hra()
+comment1.text=\r\n\ Kon\u0161truktor\ triedy\ Hra\ inicializuje\ in\u0161tancie\ triedy\ Databaza\ a\ z\u00EDska\ meno\ hr\u00E1\u010Da\ prostredn\u00EDctvom\ vstupu.\r\n\ N\u00E1sledne\ spust\u00ED\ hru.\r\n\r\n\r\n\ @throws\ IOException\ Chyba\ pri\ pr\u00E1ci\ so\ s\u00FAborom\ (najm\u00E4\ pri\ na\u010D\u00EDtan\u00ED\ datab\u00E1zy\ hr\u00E1\u010Dov).\r\n
+comment2.params=
+comment2.target=void\ startHry()
+comment2.text=\r\n\ Spust\u00ED\ hru,\ over\u00ED\ existenciu\ mena\ hr\u00E1\u010Da\ v\ datab\u00E1ze\ a\ pod\u013Ea\ toho\ reaguje\ na\ v\u00FDsledok\ dialogov\u00FDch\ okien.\r\n
+comment3.params=meno
+comment3.target=boolean\ rovnakeMeno(java.lang.String)
+comment3.text=\r\n\ Over\u00ED,\ \u010Di\ v\ datab\u00E1ze\ existuje\ hr\u00E1\u010D\ s\ rovnak\u00FDm\ menom.\r\n\r\n\ @param\ meno\ Meno\ hr\u00E1\u010Da\ na\ overenie.\r\n\ @return\ True,\ ak\ existuje\ hr\u00E1\u010D\ s\ rovnak\u00FDm\ menom,\ inak\ false.\r\n
+comment4.params=
+comment4.target=void\ tik()
+comment4.text=\r\n\ Spracuje\ tiknutie\ hry,\ aktualizuje\ sk\u00F3re\ a\ v\ pr\u00EDpade\ skon\u010Denia\ hry\ aktualizuje\ aj\ datab\u00E1zu.\r\n\r\n\ @throws\ FileNotFoundException\ Chyba\ pri\ vypisovan\u00ED\ do\ s\u00FAboru.\r\n
+comment5.params=
+comment5.target=void\ vytvor()
+numComments=6

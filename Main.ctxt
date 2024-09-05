@@ -1,7 +1,0 @@
-#BlueJ class context
-comment0.target=Main
-comment0.text=\r\n\ Hlavn\u00E1\ trieda\ Main\ obsahuje\ met\u00F3du\ main,\ ktor\u00E1\ inicializuje\ a\ sp\u00FA\u0161\u0165a\ cel\u00FD\ program.\r\n\ Na\u010D\u00EDta\ datab\u00E1zu\ hr\u00E1\u010Dov,\ vytvor\u00ED\ hru.\r\n
-comment1.params=args
-comment1.target=void\ main(java.lang.String[])
-comment1.text=\r\n\ Hlavn\u00E1\ met\u00F3da\ sp\u00FA\u0161\u0165aj\u00FAca\ hru\ FlappyBird.\r\n\r\n\ @author\ Benjamin\ Vyhnal\r\n\ @throws\ IOException\ Ak\ nastane\ chyba\ pri\ na\u010D\u00EDtavan\u00ED\ datab\u00E1zy\ zo\ s\u00FAboru.\r\n
-numComments=2
